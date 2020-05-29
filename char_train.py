@@ -5,7 +5,7 @@ from utils import *
 
 def main(**kwargs):
     """
-    This script reads the data from a weblink (Shakesphere data) and trains a
+    This script reads the data from a weblink (Shakespeare data) and trains a
     Unidirectional Multi-Layer CIFG-LSTM model.
 
     """
